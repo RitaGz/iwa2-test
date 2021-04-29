@@ -20,4 +20,3 @@ let email = [];
     console.log(error)
   }
 })()
-
